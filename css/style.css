@@ -417,7 +417,13 @@ and open the template in the editor.
     text-align: justify;
   }
   .social-icon img{
-    width: 6%important;
+    width: 6%;
+  }
+  .b-logo img{
+    margin-top: 6%;
+  }
+  .our-team h2{
+   margin-bottom: -2px!important;
   }
 }
 
