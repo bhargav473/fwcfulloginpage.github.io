@@ -416,5 +416,8 @@ and open the template in the editor.
   .text-ab p {
     text-align: justify;
   }
+  .social-icon img{
+    width: 6%important;
+  }
 }
 
